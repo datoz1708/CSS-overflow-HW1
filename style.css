@@ -1,0 +1,7 @@
+div {
+    width: 233px;
+    height: 297px;
+    border: 1px solid black;
+    white-space: nowrap;
+    overflow-x: scroll;
+}
